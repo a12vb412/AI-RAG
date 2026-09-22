@@ -1,0 +1,6 @@
+{
+  "name": "Document Q&A RAG Studio",
+  "description": "Production AI-powered document Q&A engine with pgvector retrieval, intelligent chunking, streaming responses, and verifiable citations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
